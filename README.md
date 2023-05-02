@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQFH9MNHFsGkxA/profile-displaybackgroundimage-shrink_350_1400/0/1673699867854?e=1680134400&v=beta&t=nrJXuvrCJvekAn5r4XIgCN7A6DkEYMnAPEiiHUYPiMA)
+
 <h1 align="center">Hi 👋, I'm Showrin Rahman</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
