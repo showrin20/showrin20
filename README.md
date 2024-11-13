@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **showrinrahman66@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1dI_A_uBQD-Eryn1pppsLkhVxBTRC5Bbu/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/14j035tA7JfiXngvd539vh1LgMX7AL3h4/view?usp=sharing)
 
 - ⚡ Fun fact **Too witty to handle!**
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
