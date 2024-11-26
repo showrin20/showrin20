@@ -79,8 +79,9 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwandb.ai%2Ffully-connected%2Fprojects%2Fyolov5&psig=AOvVaw33ZcWjzQYn2O517vKSeaUE&ust=1732683081588000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjyrs6Z-YkDFQAAAAAdAAAAABAE" alt="yolo" width="40" height="40"/>
-  </a>
+    <a href="https://github.com/AlexeyAB/darknet" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/YOLO.png" alt="yolo" width="40" height="40"/>
+</a>
 
   <!-- Tools and Platforms -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
