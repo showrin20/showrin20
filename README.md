@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **MongoDB,ExpressJs,ReactJs,NodeJs,NextJs,React native**
 
-- 📝 I write articles on [here](https://medium.com/@showrinrahman66)
 - 🤝 I’m looking for help with MERN
 
 - 📫 How to reach me **showrinrahman66@gmail.com**
