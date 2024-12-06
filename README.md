@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/gareTUclVKANi" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/greys-anatomy-cristina-yang-gareTUclVKANi">via GIPHY</a></p>
+![Cristina Yang GIF](https://media.giphy.com/media/gareTUclVKANi/giphy.gif)
 
 
 
