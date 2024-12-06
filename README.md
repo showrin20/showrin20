@@ -1,6 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/a1/7c/17/a17c17f65ed110f6df4f6afcfa21a4b8.gif" alt="Harry Potter Happiness GIF" />
-
+<iframe src="https://giphy.com/embed/gareTUclVKANi" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/greys-anatomy-cristina-yang-gareTUclVKANi">via GIPHY</a></p>
 
 
 
