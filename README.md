@@ -1,3 +1,7 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fharry-potter-happiness-gif--346917977545925050%2F&psig=AOvVaw1AtVuV2G_OulWWIhHP_0NS&ust=1733555705346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiOserMkooDFQAAAAAdAAAAABA4" alt="showrin20" />
+
+
+
 
 <h1 align="center">Hi 👋, I'm Showrin Rahman</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
