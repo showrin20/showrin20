@@ -4,6 +4,9 @@
 </div>
 
 
+<div align="center">
+  <img src="https://66.media.tumblr.com/4d2ed4e6802aad686903bb73e6d7d76a/tumblr_obbfxa7D4X1tbap20o1_500.gif" alt="Centered GIF Banner" width="80%">
+</div>
 
 <h1 align="center">Hi 👋, I'm Showrin Rahman</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
