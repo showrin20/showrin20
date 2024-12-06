@@ -1,5 +1,7 @@
 
-![Cristina Yang GIF](https://media.giphy.com/media/gareTUclVKANi/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/gareTUclVKANi/giphy.gif" alt="Cristina Yang GIF" width="80%">
+</div>
 
 
 
