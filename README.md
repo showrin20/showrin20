@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Showrin Rahman</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
-<p align="left"> <div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="left"> 
 
 - 🌱 I’m currently learning **MongoDB,ExpressJs,ReactJs,NodeJs,NextJs,React native**
 
