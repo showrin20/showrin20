@@ -111,6 +111,9 @@
     <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/>
   </a>
 </p>
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=showrinrahman15&theme=light&border=border&animated=false)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact" alt="showrin20" /></p>
 
