@@ -20,7 +20,7 @@
 - 📄 [Resume](https://drive.google.com/file/d/14j035tA7JfiXngvd539vh1LgMX7AL3h4/view?usp=sharing)
 
 - ⚡ Fun fact **Too witty to handle!**
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
