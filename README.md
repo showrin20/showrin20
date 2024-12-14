@@ -113,13 +113,11 @@
 </p>
 
 <div align="center">
-  <h2>Competitive Programming Stats</h2>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=showrinrahman15&theme=light&border=border&animated=false" alt="LeetCode Stats" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=showrinrahman15" alt="Codeforces Stats" />
 </div>
 
 <div align="center">
-  <h2>GitHub Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
