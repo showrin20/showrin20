@@ -114,8 +114,7 @@
 
 ![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=showrinrahman15&theme=light&border=border&animated=false)
 
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?showrinrahman)
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=showrinrahman15)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact" alt="showrin20" /></p>
 
 
