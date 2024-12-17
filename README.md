@@ -115,9 +115,9 @@
 <div align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=showrinrahman15&theme=light&border=border&animated=false" alt="LeetCode Stats" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin20" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=showrin20" alt="GitHub Streak" />
 </div>
 
-
+[![GitHub Streak]()
 </div>
 
