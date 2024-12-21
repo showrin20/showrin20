@@ -111,14 +111,18 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=showrinrahman15&theme=light&border=border&animated=false" alt="LeetCode Stats" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimahathir73&show_icons=true&theme=radical" alt="showrin20" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimahathir73&show_icons=true&locale=en&layout=compact&theme=radical" alt="kazimahathir73" width="400"/>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=showrin20&theme=git-dark&short_numbers=true" alt="GitHub Streak" /></a>
+---
 
-  
-</div>
+## 🏆 GitHub Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kazimahathir73&theme=darkhub" alt="showrin20" />
+</p>
 
 </div>
 
