@@ -113,8 +113,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimahathir73&show_icons=true&theme=radical" alt="showrin20" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimahathir73&show_icons=true&locale=en&layout=compact&theme=radical" alt="kazimahathir73" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=showrin20&show_icons=true&theme=radical" alt="showrin20" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=showrin20&show_icons=true&locale=en&layout=compact&theme=radical" alt="showrin20" width="400"/>
 </p>
 
 ---
