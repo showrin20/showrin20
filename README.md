@@ -110,6 +110,12 @@
   </a>
 </p>
 
+<h2>LeetCode Stats</h2>
+<a href="https://leetcode.com/showrinrahman15/">
+  <img src="https://leetcard.jacoblin.cool/showrinrahman15?theme=dark&font=Saira&ext=heatmap" alt="LeetCode Stats">
+</a>
+
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=showrin20&show_icons=true&theme=radical" alt="showrin20" width="400"/>
