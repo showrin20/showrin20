@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="left">Hi 👋, I'm Showrin Rahman</h1>
+<h1 align="Center">Hi 👋, I'm Showrin Rahman</h1>
 
 <p align="left"> 
 
