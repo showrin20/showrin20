@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="Center">Hi 👋, I'm Showrin Rahman</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&duration=3000&lines=👩‍💻+Hey,+This+is;Showrin+Rahman....&center=true&vCenter=true)](https://git.io/typing-svg)
 
 <p align="left"> 
 
