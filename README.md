@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=showrin20)
 <div align="center">
-  <img src="https://www.theodysseyonline.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vbWVkaWEucmJsLm1zL2ltYWdlP3U9JTJGZmlsZXMlMkYyMDE2JTJGMDglMkYwOCUyRjYzNjA2MjE3NzczMzQyODE4MzE5NTA0NzU1MTBfNjM2MDYyMTc3MzM2NTQ3MTkzMTAwMTkyNzAxMl8xLmdpZiZhbXA7aG89aHR0cHMlM0ElMkYlMkZhejYxNjU3OC52by5tc2VjbmQubmV0JmFtcDtzPTIwMyZhbXA7aD00ZmE5YTQ3NzlmN2QwYzI0MmI3YjQ2MDAwZjE1NWVhNTE1MzQ0ODNjZmI3ZmQ0N2Q0MmE3OTE2Y2JiMTk3YTE5JmFtcDtzaXplPTk4MHgmYW1wO2M9ODc1NDMwNjUyIiwiZXhwaXJlc19hdCI6MTc2MTc4NDM5NH0.MBH50R87a1u0-lNWy254HFVH-vZXPYkLyXqSO0MWk0I/image.jpg?=undefined&quality=80" alt="Centered Banner" width="80%">
+  <img src="me video.gif" alt="Centered Banner" width="80%">
 </div>
 
 
