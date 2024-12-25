@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=showrin20)
 <div align="center">
-  <img src="me video.gif" alt="Centered Banner" width="30%">
+  <img src="me video.gif" alt="Centered Banner" width="20%">
 </div>
 
 
