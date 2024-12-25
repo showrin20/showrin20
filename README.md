@@ -6,8 +6,6 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=50&duration=5000&lines=👩‍💻+Hey,+This+is;Showrin+Rahman&center=true&vCenter=true)](https://git.io/typing-svg)
-
 <p align="left"> 
 
 - 🌱 I’m currently learning **MongoDB,ExpressJs,ReactJs,NodeJs,NextJs,React native**
