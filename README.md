@@ -23,10 +23,6 @@
 <a href="https://linkedin.com/in/showrin-rahman-36a902227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showrin-rahman-36a902227" height="30" width="40" /></a>
 <a href="https://kaggle.com/showrinrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="showrinrahman" height="30" width="40" /></a>
 <a href="https://leetcode.com/showrinrahman15/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="showrinrahman15" height="30" width="40" /></a>
-<a href="https://showrin-rahman.vercel.app" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" 
-       alt="Portfolio Website" height="30" width="40" />
-</a>
 
 
 </p>
