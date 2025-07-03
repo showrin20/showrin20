@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **showrinrahman66@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1_wSsz-w65fxSl2PQ0bT0WisumK0vc7uA/view)
 - ⚡ Fun fact **Too witty to handle!**
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
