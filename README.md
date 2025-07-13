@@ -2,7 +2,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=showrin20&style=flat-square&color=blue" alt="Profile views"/>
+  <br/>
   <img src="me video.gif" alt="Developer Animation" width="30%">
+  <br/>
+  <a href="https://showrin-rahman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </div>
 
 ## 🚀 About Me
@@ -12,6 +17,7 @@
 - 🌱 **Currently Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, React Native
 - 🤝 **Looking for Help:** MERN Stack development and best practices
 - 💼 **Open to:** Full-stack development opportunities and collaborations
+- 🌐 **Portfolio:** [showrin-rahman.vercel.app](https://showrin-rahman.vercel.app/)
 - 📫 **Reach Me:** [showrinrahman66@gmail.com](mailto:showrinrahman66@gmail.com)
 - ⚡ **Fun Fact:** Too witty to handle! 😄
 
@@ -20,6 +26,9 @@
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://showrin-rahman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/showrin-rahman-36a902227" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
