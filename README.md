@@ -137,14 +137,9 @@
 
 ---
 
-## 🎯 Current Focus
 
-- 🔭 **Working on:** Full-stack web applications using MERN stack
-- 🌱 **Learning:** Advanced React patterns, Node.js optimization, and system design
-- 👯 **Collaborating on:** Open source projects and innovative web solutions
-- 🎓 **Exploring:** Machine Learning applications in web development
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
