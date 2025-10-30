@@ -12,14 +12,17 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">  
 
-- 🌱 **Currently Learning:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, React Native
-- 🤝 **Looking for Help:** MERN Stack development and best practices
-- 💼 **Open to:** Full-stack development opportunities and collaborations
-- 🌐 **Portfolio:** [showrin-rahman.vercel.app](https://showrin-rahman.vercel.app/)
-- 📫 **Reach Me:** [showrinrahman66@gmail.com](mailto:showrinrahman66@gmail.com)
-- ⚡ **Fun Fact:** Too witty to handle! 😄
+* 💻 **AI Engineer & Full-Stack Developer** passionate about building intelligent, scalable, and user-centric applications.
+* 🧠 **Currently Working On:** AI automation workflows using CrewAI, n8n, and Google ADK — plus scalable AI microservices with FastAPI and Docker.
+* 🌱 **Learning & Exploring:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, and React Native.
+* 🤝 **Open To Collaborate On:** Full-stack and AI-driven projects that combine LLMs, cloud, and automation.
+* ☁️ **Tech Stack:** Python, JavaScript, FastAPI, React.js, Node.js, MongoDB, Docker, GCP, AWS.
+* 🧩 **Research & Publications:** IEEE Eurocon 2025, Springer IFIP 2025, IEEE ACDSA 2025, and arXiv 2025.
+* 🌐 **Portfolio:** [showrin-rahman.vercel.app](https://showrin-rahman.vercel.app/)
+* 📫 **Reach Me:** [showrinrahman66@gmail.com](mailto:showrinrahman66@gmail.com)
+* ⚡ **Fun Fact:** I love turning complex ideas into clean, working systems — and I’m probably automating something right now!
 
 ---
 
