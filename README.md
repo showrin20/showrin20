@@ -40,13 +40,6 @@ My undergraduate thesis addressed the limitations of optical satellite imagery, 
 
 Beyond remote sensing, I have also worked on computer vision and generative AI:
 
-- **MFSAA — IEEE Eurocon 2025:** Multi-scale feature fusion and adaptive attention for robust image deblurring.
-- **TWIG — Springer IFIP 2025:** Segmentation-guided diffusion for controlled image generation.
-- **Riverbank Change Detection — IEEE ACDSA 2025:** Satellite-image-based monitoring of riverbank changes.
-- **Remote Sensing & Environmental Monitoring:** Deep learning approaches for satellite imagery and environmental applications.
-
----
-
 ## 📄 Publications
 
 - 📄 **Multi-Scale Feature Fusion with Adaptive Attention for Robust Image Deblurring**<br/>*IEEE Eurocon 2025*
