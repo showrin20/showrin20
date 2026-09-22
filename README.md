@@ -231,7 +231,3 @@ I am interested in research problems involving multi-source geospatial data, sel
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-<div align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</b>
-</div>
-phd focused
