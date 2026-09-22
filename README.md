@@ -222,13 +222,6 @@ I am interested in research problems involving multi-source geospatial data, sel
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=showrin20&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
 
 
 
